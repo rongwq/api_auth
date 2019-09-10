@@ -1,5 +1,5 @@
 # api_auth
-对外开发api，权限校验  
+对外开放api，权限校验  
 1.给app分配对应的key、secret  
 
 2.Sign签名，调用API 时需要对请求参数进行签名验证，签名方式如下： 
